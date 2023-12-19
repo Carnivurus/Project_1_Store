@@ -1,5 +1,4 @@
-# tt_projects
-Tripleten Project 1
+## Tripleten Project 1
 
 In the following document you can see a process for manipulating project data the main objective is to identify relevant information, so it will be necessary:
 
